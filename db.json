@@ -1,0 +1,39 @@
+{
+    "jogos": [
+      {
+        "id": "2",
+        "nome": "csgo",
+        "genero": "FPS",
+        "plataformaId": "3",
+        "Preco": "10"
+      },
+      {
+        "id": "3",
+        "nome": "God of War",
+        "genero": "Acao",
+        "plataformaId": "3",
+        "Preco": "55"
+      },
+      {
+        "id": "1",
+        "nome": "LoL",
+        "genero": "Moba",
+        "plataformaId": "1",
+        "Preco": "00"
+      }
+    ],
+    "plataformas": [
+      {
+        "id": "2",
+        "nomePlat": "steam"
+      },
+      {
+        "id": "3",
+        "nomePlat": "NUVEM"
+      },
+      {
+        "id": "1",
+        "nomePlat": "RIOT GAMES"
+      }
+    ]
+  }
